@@ -10,7 +10,7 @@ redirect_from:
 
 I am a M.Phil. student in Artificial Intelligence at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by Prof. Xiaowen Chu. Before that, I received my B.Eng. in Electronic Information Science and Technology from **Hefei University of Technology**, where I ranked 1/147 in my major.
 
-My research interests lie in **Text-to-Image Generation**, **Evaluation of Generative Models**, **LLM / Code Agents**, and **Multimodal Learning**. I am currently a research intern at Baidu **ERNIE / Wenxin**, working on code agents and large-scale, verifiable code data for LLM training.
+My research interests lie in **LLM Reasoning / Code Agents**, **Text-to-Image Generation**, **Evaluation of Generative Models**, and **Multimodal Learning**. I am currently a research intern at Baidu **ERNIE / Wenxin**, working on code agents and large-scale, verifiable code data for LLM training.
 
 [Email](mailto:dxie810@connect.hkust-gz.edu.cn) / [GitHub](https://github.com/Maxwells-Ayakashi)
 
