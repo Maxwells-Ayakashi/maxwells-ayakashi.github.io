@@ -16,11 +16,10 @@ My research interests lie in **Text-to-Image Generation**, **Evaluation of Gener
 
 ## 🔥 News
 
-- **2026.04** — Joined Baidu **ERNIE / Wenxin** (Foundation Model Pre-training) as a research intern, working on code agents and code data for LLM mid-training.
+- **2026.04** — Joined Baidu **ERNIE / Wenxin** (Foundation Model Pre-training) as a research intern, working on code agents and code data for LLM mid-training and post-training.
 - **2026.01** — Our paper *Guidance Matters: Rethinking the Evaluation Pitfall for Text-to-Image Generation* was accepted to **ICLR 2026**.
 - **2025.08** — Started my M.Phil. in Artificial Intelligence at **HKUST(GZ)**, advised by Prof. Xiaowen Chu.
 - **2024.07** — *BrainRAM* was accepted to **ACM Multimedia 2024** and selected for an **Oral** presentation (top 3.97%).
-- **2023.07** — *A Lightness-aware Loss for Low-light Image Enhancement* was published in **Pattern Recognition Letters**.
 
 ## 📝 Publications
 
