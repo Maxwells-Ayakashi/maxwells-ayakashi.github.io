@@ -36,7 +36,7 @@ My research interests lie in **LLM Reasoning / Code Agents**, **Text-to-Image Ge
 <details markdown="1">
   <summary style="opacity:0.05;font-size:2px;line-height:2px;cursor:pointer">.</summary>
 
-  [M.Sc](http://m.sc/) in Computer Science ShanghaiTech University 2023.08-2024.06
+  **M.Sc. in Computer Science**, ShanghaiTech University, 2023.08 – 2024.06
 
 </details>
 
