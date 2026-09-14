@@ -35,7 +35,7 @@ Publications
 Awards
 ======
 * HKUST(GZ) Red Bird Scholarship — 2025
-* National Scholarship (three times) — 2019 – 2022
+* **National Scholarship (three times)** — 2019 – 2022
 * Outstanding Graduate of Anhui Province — 2023
 
 Skills
