@@ -32,6 +32,14 @@ My research interests lie in **LLM Reasoning / Code Agents**, **Text-to-Image Ge
 ## 🎓 Education
 
 - **M.Phil. in Artificial Intelligence**, The Hong Kong University of Science and Technology (Guangzhou), 2025.08 – 2027.06 (expected). Advisor: Prof. Xiaowen Chu.
+
+<details markdown="1">
+  <summary style="opacity:0.05;font-size:2px;line-height:2px;cursor:pointer">.</summary>
+
+  [M.Sc](http://m.sc/) in Computer Science ShanghaiTech University 2023.08-2024.06
+
+</details>
+
 - **B.Eng. in Electronic Information Science and Technology**, Hefei University of Technology, 2019.09 – 2023.06. Major ranking: 1/147.
 
 ## 💼 Experience
