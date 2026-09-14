@@ -20,8 +20,6 @@ Research & Industry Experience
   * Designed and implemented a trajectory-construction module for code-agent training data, converting GitHub pull-request diffs, commit histories, CI results and review signals into multi-turn conversations in the OpenAI tool-use format (290k+ GitHub repositories, 300B+ tokens for model mid-training).
   * Built an end-to-end pipeline for constructing executable software-engineering environments, mining candidate commits, reconstructing runnable Docker environments and automatically running fail-to-pass tests (222 repositories, 4,000+ verifiable coding tasks for SFT trajectory generation and RL rollouts).
   * Adapted SWE-style code-repair environments for unit-test generation and built a code-data flywheel; GRPO fine-tuning of Qwen3.5-9B improved SWT-Bench Verified from 42.3% to 56.4% and SWE-Bench Verified from 50.2% to 54.0%.
-* **Code-R1: Reinforcement-Learning Code Agent**, 2025.12 – 2026.02
-  * Applied GRPO with LoRA to fine-tune Qwen2.5-7B-Instruct on LeetCode-2k, improving test-set Pass@1 from 15% to 49%; with a Firejail Python sandbox and terminal tool use, Pass@1 reached 72%.
 * **Evaluation Pitfalls in Text-to-Image Diffusion Guidance**, 2024.11 – 2025.03
   * Revealed and quantified a major evaluation pitfall in text-to-image diffusion models: increasing the guidance scale can substantially improve mainstream human-preference metrics without improving actual quality. The first-author paper was accepted to **ICLR 2026 (CCF-A)**.
 * **Brain Activity Visual Reconstruction (BrainRAM)**, 2023.10 – 2024.04
