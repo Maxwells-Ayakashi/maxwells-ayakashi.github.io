@@ -12,7 +12,7 @@ I am a M.Phil. student in Artificial Intelligence at **The Hong Kong University 
 
 My research interests lie in **Text-to-Image Generation**, **Evaluation of Generative Models**, **LLM / Code Agents**, and **Multimodal Learning**. I am currently a research intern at Baidu **ERNIE / Wenxin**, working on code agents and large-scale, verifiable code data for LLM training.
 
-[Email](mailto:maxwells_ayakashi@foxmail.com) / [GitHub](https://github.com/Maxwells-Ayakashi)
+[Email](mailto:dxie810@connect.hkust-gz.edu.cn) / [GitHub](https://github.com/Maxwells-Ayakashi)
 
 ## 🔥 News
 
