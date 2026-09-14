@@ -20,10 +20,9 @@ Research & Industry Experience
   * Designed and implemented a trajectory-construction module for code-agent training data, converting GitHub pull-request diffs, commit histories, CI results and review signals into multi-turn conversations in the OpenAI tool-use format (290k+ GitHub repositories, 300B+ tokens for model mid-training).
   * Built an end-to-end pipeline for constructing executable software-engineering environments, mining candidate commits, reconstructing runnable Docker environments and automatically running fail-to-pass tests (222 repositories, 4,000+ verifiable coding tasks for SFT trajectory generation and RL rollouts).
   * Adapted SWE-style code-repair environments for unit-test generation and built a code-data flywheel; GRPO fine-tuning of Qwen3.5-9B improved SWT-Bench Verified from 42.3% to 56.4% and SWE-Bench Verified from 50.2% to 54.0%.
-* **Evaluation Pitfalls in Text-to-Image Diffusion Guidance**, 2024.11 – 2025.03
-  * Revealed and quantified a major evaluation pitfall in text-to-image diffusion models: increasing the guidance scale can substantially improve mainstream human-preference metrics without improving actual quality. The first-author paper was accepted to **ICLR 2026 (CCF-A)**.
-* **Brain Activity Visual Reconstruction (BrainRAM)**, 2023.10 – 2024.04
-  * Reconstructed visual stimuli from fMRI signals with text-to-image diffusion models; retrieval-augmented generation (RAG) improved reconstruction performance by 9%. Accepted to **ACM Multimedia 2024 (CCF-A)** as an **Oral** presentation (top 3.97%).
+* **Research Assistant, The Hong Kong University of Science and Technology (Guangzhou)**, 2024.07 – 2025.08
+* **Student Director, Electronic Design Innovation Lab, Hefei University of Technology**, 2020.10 – 2023.06
+  * Participated in electronic-design competitions and was responsible for organizing the training and recruitment of new members.
 
 Publications
 ======

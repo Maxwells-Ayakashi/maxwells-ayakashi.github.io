@@ -38,8 +38,8 @@ See the [Publications](/publications/) page for the full list.
 ## 💼 Experience
 
 - **Research Intern, Baidu ERNIE (Foundation Model Pre-training)**, 2026.04 – present
-- **Evaluation Pitfalls in Text-to-Image Diffusion Guidance**, 2024.11 – 2025.03
-- **Brain Activity Visual Reconstruction (BrainRAM)**, 2023.10 – 2024.04
+- **Research Assistant, The Hong Kong University of Science and Technology (Guangzhou)**, 2024.07 – 2025.08
+- **Student Director, Electronic Design Innovation Lab, Hefei University of Technology**, 2020.10 – 2023.06
 
 ## 🏆 Selected Awards
 
