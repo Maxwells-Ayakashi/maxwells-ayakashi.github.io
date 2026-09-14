@@ -38,7 +38,6 @@ See the [Publications](/publications/) page for the full list.
 ## 💼 Experience
 
 - **Research Intern, Baidu ERNIE (Foundation Model Pre-training)**, 2026.04 – present
-- **Multimodal GUI Agent for Visual Grounding and Reasoning**, 2026.01 – 2026.03
 - **Code-R1: Reinforcement-Learning Code Agent**, 2025.12 – 2026.02
 - **Evaluation Pitfalls in Text-to-Image Diffusion Guidance**, 2024.11 – 2025.03
 - **Brain Activity Visual Reconstruction (BrainRAM)**, 2023.10 – 2024.04
