@@ -37,7 +37,6 @@ Awards
 * HKUST(GZ) Red Bird Scholarship — 2025
 * National Scholarship (three times) — 2019 – 2022
 * Outstanding Graduate of Anhui Province — 2023
-* Second Prize, National College Students Smart Car Competition — 2022
 
 Skills
 ======

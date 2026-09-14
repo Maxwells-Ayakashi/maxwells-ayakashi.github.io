@@ -22,13 +22,13 @@ My research interests lie in **Text-to-Image Generation**, **Evaluation of Gener
 - **2024.07** — *BrainRAM* was accepted to **ACM Multimedia 2024** and selected for an **Oral** presentation (top 3.97%).
 - **2023.07** — *A Lightness-aware Loss for Low-light Image Enhancement* was published in **Pattern Recognition Letters**.
 
-## 📝 Selected Publications
+## 📝 Publications
 
+- **Guidance Games the Judge: Spoof-Invariance Debiasing for Shortcut-Resistant Text-to-Image Reward Models.** **Dian Xie**, Xiaowen Chu. *Submitted to AAAI 2027.*
 - **Guidance Matters: Rethinking the Evaluation Pitfall for Text-to-Image Generation.** **Dian Xie**, Shitong Shao, Lichen Bai, Zikai Zhou, Bojun Cheng, Shuo Yang, Jun Wu, Zeke Xie. *ICLR 2026.*
+- **Improved and Accelerated Text-to-Image Generation with Collect, Reflect, and Refine.** Shitong Shao, Zikai Zhou, **Dian Xie**, Yuetong Fang, Tian Ye, Lichen Bai, Bo Han, Zeke Xie. *IEEE T-PAMI.*
 - **BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity.** **Dian Xie**, Peiang Zhao, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia. *ACM Multimedia 2024 (Oral, top 3.97%).*
 - **A Lightness-aware Loss for Low-light Image Enhancement.** **Dian Xie**, Huajun Xing, Liangyu Chen, Shijie Hao. *Pattern Recognition Letters, 2023.*
-
-See the [Publications](/publications/) page for the full list.
 
 ## 🎓 Education
 
@@ -46,4 +46,3 @@ See the [Publications](/publications/) page for the full list.
 - HKUST(GZ) Red Bird Scholarship, 2025
 - National Scholarship (three times), 2019 – 2022
 - Outstanding Graduate of Anhui Province, 2023
-- Second Prize, National College Students Smart Car Competition, 2022
