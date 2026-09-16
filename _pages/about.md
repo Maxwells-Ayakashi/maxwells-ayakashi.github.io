@@ -29,21 +29,21 @@ My research interests lie in **LLM Reasoning / Code Agents**, **Text-to-Image Ge
 <td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-guidance-games.png" alt="Guidance Games the Judge" /></td>
 <td width="75%" valign="center"><strong>Guidance Games the Judge: Spoof-Invariance Debiasing for Shortcut-Resistant Text-to-Image Reward Models</strong><br />
 <b>Dian Xie</b>, Xiaowen Chu<br />
-<strong><em>Submitted to AAAI 2027</em></strong>, 2026<br />
+<strong><em>Submitted to AAAI 2027</em></strong><br />
 <p>We propose a spoof-invariance debiasing method for text-to-image reward models, making them robust to shortcuts such as the guidance scale.</p></td>
 </tr>
 <tr>
 <td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-guidance-matters.png" alt="Guidance Matters" /></td>
 <td width="75%" valign="center"><strong>Guidance Matters: Rethinking the Evaluation Pitfall for Text-to-Image Generation</strong><br />
 <b>Dian Xie</b>, Shitong Shao, Lichen Bai, Zikai Zhou, Bojun Cheng, Shuo Yang, Jun Wu, Zeke Xie<br />
-<strong><em>ICLR 2026</em></strong>, 2026<br />
+<strong><em>ICLR 2026</em></strong><br />
 <p>We reveal and quantify a major evaluation pitfall in text-to-image diffusion models: increasing the guidance scale can substantially improve mainstream human-preference metrics without improving actual image quality.</p></td>
 </tr>
 <tr>
 <td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-crr.png" alt="Collect, Reflect, and Refine" /></td>
 <td width="75%" valign="center"><strong>Improved and Accelerated Text-to-Image Generation with Collect, Reflect, and Refine</strong><br />
 Shitong Shao, Zikai Zhou, <b>Dian Xie</b>, Yuetong Fang, Tian Ye, Lichen Bai, Bo Han, Zeke Xie<br />
-<strong><em>IEEE T-PAMI</em></strong><br />
+<strong><em>IEEE T-PAMI 2026</em></strong><br />
 <p>A collect-reflect-refine framework for improved and accelerated text-to-image generation.</p></td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ Shitong Shao, Zikai Zhou, <b>Dian Xie</b>, Yuetong Fang, Tian Ye, Lichen Bai, Bo
 <td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-lightness.png" alt="Lightness-aware Loss" /></td>
 <td width="75%" valign="center"><strong>A Lightness-aware Loss for Low-light Image Enhancement</strong><br />
 <b>Dian Xie</b>, Huajun Xing, Liangyu Chen, Shijie Hao<br />
-<strong><em>Pattern Recognition Letters</em></strong>, 2023<br />
+<strong><em>Pattern Recognition Letters 2023</em></strong><br />
 <p>A zero-reference, lightness-aware loss function that alleviates over-exposure in low-light image enhancement models.</p></td>
 </tr>
 </tbody>

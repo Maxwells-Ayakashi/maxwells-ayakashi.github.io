@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/guidance-games-the-judge
 excerpt: 'We propose a spoof-invariance debiasing method for text-to-image reward models, making them robust to shortcuts such as the guidance scale.'
-date: 2026-09-01
-venue: 'Submitted to AAAI 2027'
+date: 2027-01-01
+venue: 'AAAI'
 citation: 'Dian Xie, Xiaowen Chu. (2026). &quot;Guidance Games the Judge: Spoof-Invariance Debiasing for Shortcut-Resistant Text-to-Image Reward Models.&quot; Submitted to <i>AAAI 2027</i>.'
 ---
 
