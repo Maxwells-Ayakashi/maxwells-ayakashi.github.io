@@ -23,11 +23,45 @@ My research interests lie in **LLM Reasoning / Code Agents**, **Text-to-Image Ge
 
 ## 📝 Publications
 
-- **Guidance Games the Judge: Spoof-Invariance Debiasing for Shortcut-Resistant Text-to-Image Reward Models.** **Dian Xie**, Xiaowen Chu. *Submitted to AAAI 2027.*
-- **Guidance Matters: Rethinking the Evaluation Pitfall for Text-to-Image Generation.** **Dian Xie**, Shitong Shao, Lichen Bai, Zikai Zhou, Bojun Cheng, Shuo Yang, Jun Wu, Zeke Xie. *ICLR 2026.*
-- **Improved and Accelerated Text-to-Image Generation with Collect, Reflect, and Refine.** Shitong Shao, Zikai Zhou, **Dian Xie**, Yuetong Fang, Tian Ye, Lichen Bai, Bo Han, Zeke Xie. *IEEE T-PAMI.*
-- **BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity.** **Dian Xie**, Peiang Zhao, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia. *ACM Multimedia 2024 (Oral, top 3.97%).*
-- **A Lightness-aware Loss for Low-light Image Enhancement.** **Dian Xie**, Huajun Xing, Liangyu Chen, Shijie Hao. *Pattern Recognition Letters, 2023.*
+<table style="width:100%;border:0;border-spacing:0;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<tbody>
+<tr>
+<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-guidance-games.png" alt="Guidance Games the Judge" /></td>
+<td width="75%" valign="center"><strong>Guidance Games the Judge: Spoof-Invariance Debiasing for Shortcut-Resistant Text-to-Image Reward Models</strong><br />
+<b>Dian Xie</b>, Xiaowen Chu<br />
+<em>Submitted to AAAI 2027</em>, 2026<br />
+<p>We propose a spoof-invariance debiasing method for text-to-image reward models, making them robust to shortcuts such as the guidance scale.</p></td>
+</tr>
+<tr>
+<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-guidance-matters.png" alt="Guidance Matters" /></td>
+<td width="75%" valign="center"><strong>Guidance Matters: Rethinking the Evaluation Pitfall for Text-to-Image Generation</strong><br />
+<b>Dian Xie</b>, Shitong Shao, Lichen Bai, Zikai Zhou, Bojun Cheng, Shuo Yang, Jun Wu, Zeke Xie<br />
+<em>ICLR 2026 (CCF-A)</em>, 2026<br />
+<p>We reveal and quantify a major evaluation pitfall in text-to-image diffusion models: increasing the guidance scale can substantially improve mainstream human-preference metrics without improving actual image quality.</p></td>
+</tr>
+<tr>
+<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-crr.png" alt="Collect, Reflect, and Refine" /></td>
+<td width="75%" valign="center"><strong>Improved and Accelerated Text-to-Image Generation with Collect, Reflect, and Refine</strong><br />
+Shitong Shao, Zikai Zhou, <b>Dian Xie</b>, Yuetong Fang, Tian Ye, Lichen Bai, Bo Han, Zeke Xie<br />
+<em>IEEE T-PAMI</em><br />
+<p>A collect-reflect-refine framework for improved and accelerated text-to-image generation.</p></td>
+</tr>
+<tr>
+<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-brainram.png" alt="BrainRAM" /></td>
+<td width="75%" valign="center"><strong>BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity</strong><br />
+<b>Dian Xie</b>, Peiang Zhao, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia<br />
+<em>ACM Multimedia 2024 (Oral, top 3.97%)</em><br />
+<p>We reconstruct visual stimuli from fMRI signals with text-to-image diffusion models; retrieval-augmented generation (RAG) improves reconstruction performance by 9%.</p></td>
+</tr>
+<tr>
+<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-lightness.png" alt="Lightness-aware Loss" /></td>
+<td width="75%" valign="center"><strong>A Lightness-aware Loss for Low-light Image Enhancement</strong><br />
+<b>Dian Xie</b>, Huajun Xing, Liangyu Chen, Shijie Hao<br />
+<em>Pattern Recognition Letters</em>, 2023<br />
+<p>A zero-reference, lightness-aware loss function that alleviates over-exposure in low-light image enhancement models.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 🎓 Education
 
