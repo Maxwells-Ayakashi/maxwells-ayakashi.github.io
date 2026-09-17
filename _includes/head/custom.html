@@ -19,4 +19,14 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
+<!-- Keep the page footer in normal flow (at the very bottom of the page), not pinned to the viewport -->
+<style>
+  .page__footer {
+    position: relative !important;
+    bottom: auto !important;
+  }
+  /* the theme's JS reserves space for the fixed footer; no longer needed */
+  body { margin-bottom: 0 !important; }
+</style>
+
 <!-- end custom head snippets -->
