@@ -29,4 +29,57 @@
   body { margin-bottom: 0 !important; }
 </style>
 
+<!-- Click an image to view it full-size in an overlay (lightbox); close with the top-right ×, Esc, or clicking outside -->
+<style>
+  .page__content img { cursor: zoom-in; }
+  #oc-lightbox {
+    position: fixed; inset: 0; z-index: 9999;
+    background: rgba(0,0,0,.85);
+    display: none; align-items: center; justify-content: center;
+    padding: 2vh 2vw;
+  }
+  #oc-lightbox.open { display: flex; }
+  #oc-lightbox img {
+    max-width: 96vw; max-height: 92vh; width: auto; height: auto;
+    background: #fff; box-shadow: 0 8px 40px rgba(0,0,0,.55);
+    cursor: default;
+  }
+  #oc-lightbox-close {
+    position: fixed; top: 10px; right: 14px;
+    width: 42px; height: 42px; padding: 0; border-radius: 50%;
+    border: none; background: rgba(255,255,255,.16); color: #fff;
+    font-size: 22px; line-height: 42px; text-align: center;
+    cursor: pointer; z-index: 10000;
+  }
+  #oc-lightbox-close:hover { background: rgba(255,255,255,.32); }
+  body.oc-lightbox-open { overflow: hidden; }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var box = document.createElement('div');
+    box.id = 'oc-lightbox';
+    box.innerHTML = '<button id="oc-lightbox-close" aria-label="Close">&#10005;</button><img alt="">';
+    document.body.appendChild(box);
+    var big = box.querySelector('img');
+    function open(src, alt) {
+      big.src = src; big.alt = alt || '';
+      box.classList.add('open'); document.body.classList.add('oc-lightbox-open');
+    }
+    function close() {
+      box.classList.remove('open'); document.body.classList.remove('oc-lightbox-open');
+      big.removeAttribute('src');
+    }
+    document.querySelectorAll('.page__content img').forEach(function (el) {
+      el.title = 'Click to enlarge';
+      el.addEventListener('click', function (e) {
+        e.preventDefault(); open(el.currentSrc || el.src, el.alt);
+      });
+    });
+    box.addEventListener('click', function (e) {
+      if (e.target === box || e.target.id === 'oc-lightbox-close') close();
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
+  });
+</script>
+
 <!-- end custom head snippets -->
