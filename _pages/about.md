@@ -61,7 +61,7 @@ Shitong Shao, Zikai Zhou, <b>Dian Xie</b>, Yuetong Fang, Tian Ye, Lichen Bai, Bo
 <p>We reconstruct visual stimuli from fMRI signals with text-to-image diffusion models; retrieval-augmented generation (RAG) improves reconstruction performance by 9%.</p></td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-lightness.png" alt="Lightness-aware Loss" /></td>
+<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-lightness-v2.png" alt="Lightness-aware Loss" /></td>
 <td width="75%" valign="center"><strong>A Lightness-aware Loss for Low-light Image Enhancement</strong><br />
 <b>Dian Xie</b>, Huajun Xing, Liangyu Chen, Shijie Hao<br />
 <strong><em>Pattern Recognition Letters 2023</em></strong><br />
