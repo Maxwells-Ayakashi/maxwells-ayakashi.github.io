@@ -26,7 +26,7 @@ My research interests lie in **LLM Reasoning / Code Agents**, **Text-to-Image Ge
 <table style="width:100%;border:0;border-spacing:0;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
 <tr>
-<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-patches-hide-tests.png" alt="Patches Hide Tests to Write" /></td>
+<td style="padding:20px;width:30%;max-width:30%" align="center"><img style="width:100%;max-width:100%" src="/images/pub-patches-hide-tests-teaser.png" alt="Patches Hide Tests to Write" /></td>
 <td width="75%" valign="center"><strong>Patches Hide Tests to Write: Deriving Trainable Test-Generation Tasks from Existing SWE Environments</strong><br />
 <b>Dian Xie</b>, Weibin Li, Shikun Feng, Hanchao Yu<br />
 <strong><em>Submitted to ICLR 2027</em></strong><br />
